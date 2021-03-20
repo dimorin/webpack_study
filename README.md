@@ -1,6 +1,6 @@
 # webpack study
-[webpack 공식 사이트](https://webpack.js.org/)
-[create app](https://createapp.dev/)
+[webpack 공식 사이트](https://webpack.js.org/) <br>
+[create app](https://createapp.dev/) <br>
 [생활코딩 webpack](https://opentutorials.org/module/4566)
 
 ## webpack 설치
@@ -28,7 +28,7 @@ module.exports = {
 };
 ```
 
-## npx?
+## npx
 npx 는 package runner(실행) 이다. <br>
 'mypackage' 라는 패키지를 실행한다고 해보자.
 ```bash
